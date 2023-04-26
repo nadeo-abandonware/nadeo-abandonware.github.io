@@ -14,9 +14,6 @@
   z-index: -1;
 }
 
-.content {
-  /* Styles pour le contenu */
-}
 
 .nadeobannerlink {
   color: rgb(255, 255, 255);
@@ -30,16 +27,6 @@
 
 img {
   display: block;
-}
-
-@font-face {
-	font-family: 'TF2main';
-	src: url("res$/TF2main.ttf") format("truetype");
-}
-
-@font-face {
-	font-family: 'TF2secondary';
-	src: url("res$/TF2secondary.ttf") format("truetype");
 }
 
 h1 {
