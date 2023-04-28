@@ -170,7 +170,7 @@ span.red {
   color: red;
 }
 
-span.sepparator {
+span.pipe {
   color: white;
 }
 
@@ -190,4 +190,20 @@ h3.justified {
 
 h5.justified {
   text-align: justify;
+}
+
+table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+td.os {
+  width: calc(100% / 10);
+  text-align: center;
+  border-right: 1px solid white;
+}
+
+td:last-child {
+  border-right: none;
 }
