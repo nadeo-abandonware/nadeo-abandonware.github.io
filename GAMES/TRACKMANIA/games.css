@@ -105,3 +105,9 @@ h1 {
     color: rgb(0, 127, 255);
   }
   
+  .video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ 
